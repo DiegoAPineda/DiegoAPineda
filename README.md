@@ -15,6 +15,8 @@
 
 - :octocat: My text editor of choice is **VSCode** 
 
+- 🍨 Fun fact, my last name means Pine Forest
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/diegoapineda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="diegoapineda" height="30" width="40" /></a>

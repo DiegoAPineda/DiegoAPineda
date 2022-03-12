@@ -15,7 +15,7 @@
 
 - :octocat: My text editor of choice is **VSCode** 
 
-- 🌲 Fun fact, my last name means Pine Forest
+- 🌲 Fun fact, my last name means **Pine Forest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

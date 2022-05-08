@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Diego! 👋</h1>
 <h3 align="center">:')</h3>    
  
-<p align="center"> <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="700" height="250" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="700" height="250" /> </p> 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoapineda&label=Profile%20views&color=0e75b6&style=flat" alt="diegoapineda" /> </p> ---> 
 

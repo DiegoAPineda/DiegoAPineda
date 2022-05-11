@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently tinkering on **personal projects using PyGame!**  
 
-- 🌱 I’m currently learning **TypeScript** 
+- 🌱 I’m currently learning **TypeScript**  
 
 - 💬 Ask me about **anything, I'm always happy to help if able!**
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diego! 👋</h1>  
+<h1 align="center">Hi, I'm Diego! 👋</h1>   
 <h3 align="center">:')</h3>        
  
 <p align="center"> <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="700" height="250" /> </p> 
